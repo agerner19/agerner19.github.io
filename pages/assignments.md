@@ -8,8 +8,8 @@ description: Ben Harvey's assignments
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="../Assignments/Austin Gerner - HW1.ipynb">Assignment1</a></li>
-            <li><a href="../Assignments/HW2.ipynb">Assignment2</a></li>
+            <li><a href="#Assignment1">Assignment1</a></li>
+            <li><a href="#Assignment2">Assignment2</a></li>
             <li><a href="#Assignment3">Assignment3</a></li>
             <li><a href="#Assignment4">Assignment4</a></li>
             <li><a href="#ExtraCredit">Extra Credit Assignment</a></li>
@@ -34,7 +34,7 @@ description: Ben Harvey's assignments
 
 Results | Repository
 ---|---
-[assignment1 results]()| [assignment1 repositiory]()
+[assignment1](https://github.com/agerner19/agerner19.github.io/blob/master/Assignments/Austin%20Gerner%20-%20HW1.ipynb)
 
 ---
 
@@ -54,7 +54,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment2 results]()| [assignment2 repositiory]()|
+| [assignment2](https://github.com/agerner19/agerner19.github.io/blob/master/Assignments/HW2.ipynb)| 
 
 ---
 
