@@ -32,8 +32,8 @@ description: Ben Harvey's assignments
 
 {Add description of example an assignment here}
 
-Results | Repository
----|---
+| Results                | Repository                 |
+| ---------------------- |:--------------------------:|
 [assignment1](https://github.com/agerner19/agerner19.github.io/blob/master/Assignments/Austin%20Gerner%20-%20HW1.ipynb)
 
 ---
@@ -74,7 +74,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment3 results]()| [assignment3 repositiory]()|
+| [assignment3 results](https://github.com/agerner19/agerner19.github.io/blob/master/Assignments/Austin%20Gerner_HW3_Project_Analysis.ipynb)
 
 ---
 
