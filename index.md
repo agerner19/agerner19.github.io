@@ -26,7 +26,7 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="right">
-    <a https://github.com/agerner19/agerner19.github.io/blob/master/Assignments/Austin_Gerner_Project_Analysis.ipynb>
+    <a href= "https://github.com/agerner19/agerner19.github.io/blob/master/Assignments/Austin_Gerner_Project_Analysis.ipynb">
        FINAL PROJECT LINK
     </a>
   </td>
