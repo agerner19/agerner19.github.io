@@ -27,8 +27,7 @@ keywords: statistics, data analytics
   </td>
   <td class="right">
     <a href="https://github.com/agerner19/agerner19.github.io/blob/master/Assignments/.ipynb_checkpoints/Austin%20Gerner_HW3_Project_Analysis-checkpoint.ipynb">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/> FINAL PROJECT LINK
+       FINAL PROJECT LINK
     </a>
   </td>
 </tr>
