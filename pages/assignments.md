@@ -74,7 +74,7 @@ description: Ben Harvey's assignments
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment3 results](https://github.com/agerner19/agerner19.github.io/blob/master/Assignments/Austin%20Gerner_HW3_Project_Analysis.ipynb)
+| [assignment3 results](https://github.com/agerner19/agerner19.github.io/blob/master/Assignments/.ipynb_checkpoints/Austin%20Gerner_HW3_Project_Analysis-checkpoint.ipynb)
 
 ---
 
